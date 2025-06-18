@@ -1,4 +1,4 @@
-## 👋 Ji there!
+## 👋 Hi there!
 
 I'm **Marti**, a Computer Science student and aspiring full-stack developer.
 ---
